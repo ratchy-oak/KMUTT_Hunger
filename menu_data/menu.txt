@@ -1,0 +1,6 @@
+PadThai 120
+TomYumGoong 150
+GreenCurry 180
+PapayaSalad 80
+CrabFriedRice 200
+PadKrapowMoo 120

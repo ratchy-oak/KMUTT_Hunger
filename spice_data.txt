@@ -1,0 +1,27 @@
+==============================================
+     THE SPICY SPOON - STATISTICS REPORT     
+==============================================
+
+OVERALL STATISTICS:
+-------------------------------------------
+Total Transactions: 1
+Total Revenue: 198.00 baht
+Total Discounts: 22.00 baht
+Total Items Sold: 1
+Member Purchases: 1
+Average Order Value: 198.00 baht
+
+SPICE LEVEL PREFERENCES:
+-------------------------------------------
+  No Spice: 0 orders (0.0%)
+  Mild: 0 orders (0.0%)
+  Medium: 0 orders (0.0%)
+  Hot: 1 orders (100.0%)
+
+TOP SELLING ITEMS:
+-------------------------------------------
+  CrabFriedRice: 1 orders (100.0%), 200.00 baht revenue
+
+==============================================
+Report generated after 1 transactions
+==============================================
