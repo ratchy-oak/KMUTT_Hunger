@@ -1,8 +1,0 @@
-Username: Max
-Social: 1091
-Member: 1
-
---- New Order ---
-#1: CrabFriedRice - 200 baht (Spice: 3 - Hot)
-Total: 198.00 baht
-Member: 1
